@@ -1,13 +1,14 @@
 Instalar **Terraform**, **tflocal**, **Docker** e **Localstack**
 
+
 ```bash
-# subir o loclastack
+# subir o Localstack
 # simula os serviços da cloud
 docker-compose up -d
 ```
 
 ```bash
-# inicia a configuração do terraform
+# inicia a configuração do Terraform
 tflocal init
 
 # valida o que será aplicado
