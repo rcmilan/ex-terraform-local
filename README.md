@@ -1,6 +1,7 @@
-Instalar **Terraform**, **tflocal**, **Docker** e **Localstack**
+Instalar **Terraform**, **tflocal**, **Docker**, **AWS CLI** e **Localstack**
 
 - [Como usar Terraform + Localstack (com Docker)](https://dev.to/rotirotirafa/como-usar-terraform-localstack-com-docker-h44)
+- [LocalStack](https://www.localstack.cloud/)
 
 ```bash
 # subir o Localstack
