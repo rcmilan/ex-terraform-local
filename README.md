@@ -2,6 +2,7 @@ Instalar **Terraform**, **tflocal**, **Docker**, **AWS CLI** e **Localstack**
 
 - [Como usar Terraform + Localstack (com Docker)](https://dev.to/rotirotirafa/como-usar-terraform-localstack-com-docker-h44)
 - [LocalStack](https://www.localstack.cloud/)
+- [DynamoDB no localstack](https://docs.localstack.cloud/user-guide/aws/dynamodb/)
 
 ```bash
 # subir o Localstack
