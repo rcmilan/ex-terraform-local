@@ -19,6 +19,9 @@ tflocal plan
 
 # aplica as configurações
 tflocal apply
+
+# remove as coisas que estão rodando
+tflocal destroy
 ```
 
 ```bash
